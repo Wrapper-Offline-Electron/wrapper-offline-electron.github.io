@@ -5,5 +5,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 github:
-  zip_url: data:text/html;charset=utf-8,<script>alert('No Download yet')</script>
-  tar_url: data:text/html;charset=utf-8,<script>alert('No Download yet')</script>
+  zip_url: javascript:alert('No Download yet')
+  tar_url: javascript:alert('No Download yet')
