@@ -1,3 +1,5 @@
+# Wrapper Offline Electron
+
 ## What is Wrapper Offline Electron?
 
 Wrapper Offline Electron is an ElectronJS wrapper around Wrapper Offline, which installs all the necessary dependencies automatically without the user having to download them, like Chromium, NodeJS, and other dependencies needed. Flash Player is also provided in Wrapper Offline Electron, so Flash Player doesn't need to be installed either.
