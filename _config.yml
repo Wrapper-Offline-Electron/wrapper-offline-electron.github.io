@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+github:
+  repository_name: Wrapper Offline Electron
+  zip_url: data:text/html;charset=utf-8,<p>There is no ZIP available currently, please use Universal Installer to install Wrapper Offline Electron</p>
+  another_url: data:text/html;charset=utf-8,<p>Test</p>
