@@ -10,4 +10,17 @@ No, we took their source code entirely and wrapped it around in ElectronJS, so w
 
 Wrapper Offline only supports Windows, and here, the author (from Wrapper Offline Electron) wanted to expand its support for operating systems out there. Not everyone has Windows. Support for Linux and MacOS was made here, and it was made easy too. Originally, Wrapper and GoAnimate was meant to be cross-platform (be able to be used on Windows, MacOS, Linux), so that shouldn't be wasted and it should be used to our advantage.
 
+## Is Wrapper Offline Electron easy to install?
 
+It's supposed to be! It just requires a couple of clicks!
+
+## Is Wrapper Offline Electron auto-updatable?
+
+Currently, it's in testing stages, and it is not, bu soon it will be once stability is well.
+
+## Supported Operating Systems
+* Windows
+  * 64-bit
+  * 32-bit support is not here yet
+* MacOS
+* Linux (64-bit only)
