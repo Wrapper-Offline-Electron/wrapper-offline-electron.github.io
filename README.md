@@ -26,3 +26,7 @@ Currently, it's in testing stages, and it is not, bu soon it will be once stabil
   * 32-bit support is not here yet
 * MacOS
 * Linux (64-bit only)
+
+## Universal Installer Download
+
+[Download](https://github.com/Wrapper-Offline-Electron/Universal-Installer/releases)
