@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## What is Wrapper Offline Electron?
 
-You can use the [editor on GitHub](https://github.com/Wrapper-Offline-Electron/wrapper-offline-electron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Wrapper Offline Electron is an ElectronJS wrapper around Wrapper Offline, which installs all the necessary dependencies automatically without the user having to download them, like Chromium, NodeJS, and other dependencies needed. Flash Player is also provided in Wrapper Offline Electron, so Flash Player doesn't need to be installed either.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Is Wrapper Offline Electron different from Wrapper Offline?
 
-### Markdown
+No, we took their source code entirely and wrapped it around in ElectronJS, so we are the same exact thing. We just maintain the wrapper for ElectronJS here, and all the dependencies needed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why was Wrapper Offline Electron made?
 
-```markdown
-Syntax highlighted code block
+Wrapper Offline only supports Windows, and here, the author (from Wrapper Offline Electron) wanted to expand its support for operating systems out there. Not everyone has Windows. Support for Linux and MacOS was made here, and it was made easy too. Originally, Wrapper and GoAnimate was meant to be cross-platform (be able to be used on Windows, MacOS, Linux), so that shouldn't be wasted and it should be used to our advantage.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wrapper-Offline-Electron/wrapper-offline-electron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
