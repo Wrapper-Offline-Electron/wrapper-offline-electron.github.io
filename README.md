@@ -4,6 +4,8 @@
 
 # Downloads
 
+No dependencies (like Flash Player) needed! They are already provided for you!
+
 ## Wrapper Offline Desktop
 
 Coming soon
