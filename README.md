@@ -12,7 +12,7 @@ Coming soon
 
 ## Wrapper Offline Electron
 
-**Version 0.1.3:**
+### Version 0.1.3:
 
 - Flash Player should now be able to work/load on Linux.
 - No deprecation errors
