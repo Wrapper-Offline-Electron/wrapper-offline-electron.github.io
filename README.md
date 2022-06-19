@@ -1,5 +1,19 @@
 # Wrapper Offline Electron
 
+## Downloads
+
+### Wrapper Offline Desktop
+
+Coming soon
+
+### Wrapper Offline Electron
+
+**Version 0.1.3:**
+* [Windows 64-bit (Zip file)]()
+* [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
+* [MacOS (DMG file)](https://drive.google.com/file/d/1voI44BIKSBQNgcX4Rkpy7Egyra2NTsxx/view?usp=sharing)
+
+
 ## What is Wrapper Offline Electron?
 
 Wrapper Offline Electron is an ElectronJS wrapper around Wrapper Offline, which installs all the necessary dependencies automatically without the user having to download them, like Chromium, NodeJS, and other dependencies needed. Flash Player is also provided in Wrapper Offline Electron, so Flash Player doesn't need to be installed either.
@@ -18,7 +32,9 @@ It's supposed to be! It just requires a couple of clicks!
 
 ## Is Wrapper Offline Electron auto-updatable?
 
-Currently, it's in testing stages, and it is not, bu soon it will be once stability is well.
+Currently, it's in testing stages, and it is not, but it will once Wrapper Offline Desktop releases.
+
+**NOTE: Only on Windows and on Linux Wrapper Offline Desktop will be auto-updatable.**
 
 ## Supported Operating Systems
 * Windows
@@ -26,7 +42,3 @@ Currently, it's in testing stages, and it is not, bu soon it will be once stabil
   * 32-bit support is not here yet
 * MacOS
 * Linux (64-bit only)
-
-## Universal Installer Download
-
-[Download](https://github.com/Wrapper-Offline-Electron/Universal-Installer/releases)
