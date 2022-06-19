@@ -19,7 +19,8 @@ Coming soon
 - Localhost should now soon load, as instead of checking if localhost has loaded, it checks if the web page has loaded successfully instead.
 
 #### Windows
-* [Windows 64-bit (Portable executable)](https://drive.google.com/file/d/1xTwSFXREfY2YYkF1jbNteUjMue70iD8z/view?usp=sharing) **THIS IS NOT AN INSTALLER, THIS IS AN EXECUTABLE WHERE YOU CAN JUST DOUBLE CLICK IT AND IT WILL RUN WRAPPER OFFLINE ELECTRON**
+* [Windows 64-bit (Portable executable)](https://drive.google.com/file/d/1xTwSFXREfY2YYkF1jbNteUjMue70iD8z/view?usp=sharing) (This will take some time to load up, so please wait.)
+* ^^^^^ **This is just an executable, not an installer.**
 * [Windows 64-bit (Zip file)](https://drive.google.com/file/d/112jB6mKIwpKlaPvMB8alomx1bw0Rpy_c/view?usp=sharing)
 
 #### MacOS
