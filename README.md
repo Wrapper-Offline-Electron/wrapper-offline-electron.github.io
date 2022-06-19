@@ -18,6 +18,7 @@ Coming soon
 - No deprecation errors
 - Localhost should now soon load, as instead of checking if localhost has loaded, it checks if the web page has loaded successfully instead.
 
+* [Windows 64-bit (Portable executable)]() **THIS IS NOT AN INSTALLER, THIS IS AN EXECUTABLE WHERE YOU CAN JUST DOUBLE CLICK IT AND IT WILL RUN WRAPPER OFFLINE ELECTRON**
 * [Windows 64-bit (Zip file)](https://drive.google.com/file/d/112jB6mKIwpKlaPvMB8alomx1bw0Rpy_c/view?usp=sharing)
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
 * [MacOS (DMG file)](https://drive.google.com/file/d/1voI44BIKSBQNgcX4Rkpy7Egyra2NTsxx/view?usp=sharing)
