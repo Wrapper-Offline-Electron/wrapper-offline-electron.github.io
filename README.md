@@ -1,12 +1,14 @@
 # Wrapper Offline Electron
 
-## Downloads
+-------------------------------------
 
-### Wrapper Offline Desktop
+# Downloads
+
+## Wrapper Offline Desktop
 
 Coming soon
 
-### Wrapper Offline Electron
+## Wrapper Offline Electron
 
 **Version 0.1.3:**
 
@@ -18,6 +20,7 @@ Coming soon
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
 * [MacOS (DMG file)](https://drive.google.com/file/d/1voI44BIKSBQNgcX4Rkpy7Egyra2NTsxx/view?usp=sharing)
 
+-------------------------------------
 
 ## What is Wrapper Offline Electron?
 
