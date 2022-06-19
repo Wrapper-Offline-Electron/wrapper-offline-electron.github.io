@@ -9,7 +9,7 @@ Coming soon
 ### Wrapper Offline Electron
 
 **Version 0.1.3:**
-* [Windows 64-bit (Zip file)]()
+* [Windows 64-bit (Zip file)](https://drive.google.com/file/d/112jB6mKIwpKlaPvMB8alomx1bw0Rpy_c/view?usp=sharing)
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
 * [MacOS (DMG file)](https://drive.google.com/file/d/1voI44BIKSBQNgcX4Rkpy7Egyra2NTsxx/view?usp=sharing)
 
