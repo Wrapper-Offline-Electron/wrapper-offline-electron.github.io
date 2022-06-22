@@ -29,7 +29,7 @@ Coming soon
 
 #### Linux
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
-* [Linux 64-bit (.tar.xz file)](javascript:alert('Will be made/published soon'))
+* [Linux 64-bit (.tar.xz file)](javascript:alert('There is none, please use the AppImage instead'))
 
 ### Version 0.1.0:
 
