@@ -4,6 +4,6 @@ description: Wrapper Offline Electron Official Website for users
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
-# github:
-#   zip_url: javascript:alert('No Download yet')
-#   tar_url: javascript:alert('No Download yet')
+github:
+  zip_url: javascript:alert('Please go to the downloads section to download the one based on your OS')
+  tar_url: javascript:alert('Please go to the downloads section to download the one based on your OS')
