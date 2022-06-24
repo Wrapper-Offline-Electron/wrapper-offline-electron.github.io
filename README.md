@@ -19,7 +19,7 @@ Coming soon
 - Localhost should now soon load, as instead of checking if localhost has loaded, it checks if the web page has loaded successfully instead.
 
 #### Windows
-* [Windows 64-bit (Installer)]([https://drive.google.com/file/d/1xTwSFXREfY2YYkF1jbNteUjMue70iD8z/view?usp=sharing](https://drive.google.com/file/d/1r-sGlNic-hCHJFf4pPA3ev-ePkjpeFft/view?usp=sharing)) (This will take some time to load up, so please wait.)
+* [Windows 64-bit (Installer)](https://drive.google.com/file/d/1r-sGlNic-hCHJFf4pPA3ev-ePkjpeFft/view?usp=sharing) (This will take some time to load up, so please wait.)
 * ^^^^^ **This is just an executable, not an installer.**
 * [Windows 64-bit (Zip file)](https://drive.google.com/file/d/112jB6mKIwpKlaPvMB8alomx1bw0Rpy_c/view?usp=sharing)
 
