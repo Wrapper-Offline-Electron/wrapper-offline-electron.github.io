@@ -8,7 +8,7 @@ Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) 
 
 # Wrapper Offline Electron has a critical bug?
 
-Report it to our [discord server](https://github.com/jackprogramsjp/Wrapper-Offline-Electron)!
+Report it to our [discord server](https://discord.gg/Ug2mGxe6qK)!
 
 # Downloads
 
