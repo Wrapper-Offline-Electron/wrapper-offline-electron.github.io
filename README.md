@@ -61,5 +61,5 @@ Currently, it's in testing stages, and it is not, but it will once Wrapper Offli
 
 ## Supported Operating Systems
 * Windows (64-bit only)
-* MacOS
+* MacOS (Apple Silicon works too)
 * Linux (64-bit only)
