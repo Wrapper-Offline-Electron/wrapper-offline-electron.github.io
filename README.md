@@ -6,6 +6,10 @@
 
 Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) instead, which has less bugs, and more nice updates.
 
+# Wrapper Offline Electron has a critical bug?
+
+Report it to our [discord server](https://github.com/jackprogramsjp/Wrapper-Offline-Electron)!
+
 # Downloads
 
 No dependencies (like Flash Player) needed! They are already provided for you!
