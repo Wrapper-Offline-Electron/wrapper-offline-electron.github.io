@@ -60,8 +60,6 @@ Currently, it's in testing stages, and it is not, but it will once Wrapper Offli
 **NOTE: Only on Windows and on Linux Wrapper Offline Desktop will be auto-updatable.**
 
 ## Supported Operating Systems
-* Windows
-  * 64-bit
-  * 32-bit support is not here yet
+* Windows (64-bit only)
 * MacOS
 * Linux (64-bit only)
