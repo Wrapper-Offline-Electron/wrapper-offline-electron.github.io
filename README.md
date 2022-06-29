@@ -1,14 +1,14 @@
-# Wrapper Offline Electron
+# Wrapper Offline Electron (Outdated)
 
 -------------------------------------
+
+# Wrapper Offline Electron won't be updated now (but only for critical fixes)
+
+Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) instead, which has less bugs, and more nice updates.
 
 # Downloads
 
 No dependencies (like Flash Player) needed! They are already provided for you!
-
-## Wrapper Offline Desktop
-
-Coming soon
 
 ## Wrapper Offline Electron
 
@@ -28,7 +28,6 @@ Coming soon
 
 #### Linux
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
-* [Linux 64-bit (.tar.xz file)](javascript:alert('There is none, please use the AppImage instead'))
 
 ### Version 0.1.0:
 
