@@ -30,7 +30,6 @@ No dependencies (like Flash Player) needed! They are already provided for you!
 
 #### MacOS
 * [MacOS (DMG file)](https://drive.google.com/file/d/1voI44BIKSBQNgcX4Rkpy7Egyra2NTsxx/view?usp=sharing)
-* [MacOS (.tar.gz file)](https://drive.google.com/file/d/1rQ4IOf675cqyzzDJ92AL6Ppk0NL7efGb/view?usp=sharing)
 
 #### Linux
 * [Linux 64-bit (AppImage file)](https://drive.google.com/file/d/1THwfeGzEQta6i6YrMHwQmu4b3lb__9vh/view?usp=sharing)
