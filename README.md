@@ -6,7 +6,7 @@
 
 # Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) instead, which has less bugs, and more nice updates.
 
-# Downloads (Files don't exist anymore)
+# Downloads (Files don't exist anymore for the ~~crossed out~~ versions)
 
 No dependencies (like Flash Player) needed! They are already provided for you!
 
@@ -14,7 +14,7 @@ No dependencies (like Flash Player) needed! They are already provided for you!
 
 **Since Wrapper Offline Electron has stopped maintenance, we can't guarantee files will be kept.**
 
-### Version 0.1.3:
+### ~~Version 0.1.3~~:
 
 - Flash Player should now be able to work/load on Linux.
 - No deprecation errors
