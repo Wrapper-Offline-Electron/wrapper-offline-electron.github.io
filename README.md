@@ -2,15 +2,11 @@
 
 -------------------------------------
 
-# Wrapper Offline Electron won't be updated now (but only for critical fixes)
+# Wrapper Offline Electron is outdated now
 
-Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) instead, which has less bugs, and more nice updates.
+# Please use [Wrapper Offline Desktop](https://wrapper-offline-desktop.github.io) instead, which has less bugs, and more nice updates.
 
-# Wrapper Offline Electron has a critical bug?
-
-Report it to our [discord server](https://discord.gg/Ug2mGxe6qK)!
-
-# Downloads
+# Downloads (Files don't exist anymore)
 
 No dependencies (like Flash Player) needed! They are already provided for you!
 
